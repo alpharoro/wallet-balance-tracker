@@ -2,3 +2,4 @@
 // Refactor decentralized storage system
 // Integrate with decentralized identity providers
 // Refactor incentive structure in DeFi protocol
+// Integrate IPFS for storage
