@@ -2,3 +2,4 @@
 // Upgrade to latest Solidity version
 // Optimize multi-chain interaction
 // Fix issues in token transfer logic
+// Refactor validator reward system
