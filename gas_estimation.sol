@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Integrate with multi-token standards
 // Integrate with decentralized prediction markets
+// Fix issue with multi-chain transactions
