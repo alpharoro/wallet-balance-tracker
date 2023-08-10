@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement automated governance voting
 // Add dynamic contract fees
+// Add support for zk-SNARKs in smart contracts
