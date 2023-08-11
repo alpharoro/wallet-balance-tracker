@@ -1,3 +1,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix issue in token vesting logic
 // Optimize hashing algorithm
+// Integrate with decentralized identity providers
