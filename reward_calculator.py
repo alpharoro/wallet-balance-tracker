@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Fix ERC-721 contract issues with transfers
 // Add multi-sig wallet functionality
+// Add non-fungible token (NFT) support
