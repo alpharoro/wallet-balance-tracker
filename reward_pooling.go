@@ -2,3 +2,4 @@
 // Optimize Oracle-based data fetching
 // Enhance test coverage for Rust module
 // Add unit tests for staking module
+// Refactor voting mechanism
