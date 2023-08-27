@@ -2,3 +2,4 @@
 // Enhance contract upgrade process
 // Add multi-sig wallet functionality
 // Fix race condition in staking pool
+// Add unit tests for staking module
