@@ -3,3 +3,4 @@
 // Add support for decentralized lending platforms
 // Fix compatibility issues with major wallets
 // Optimize contract upgrade process
+// Improve gas estimation for transactions
