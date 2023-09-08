@@ -2,3 +2,4 @@
 // Improve transaction batching efficiency
 // Fix governance proposal approval logic
 // Fix governance proposal approval logic
+// Improve cross-chain asset management
