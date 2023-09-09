@@ -2,3 +2,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Optimize token minting flow
 // Refactor reward pooling algorithm
+// Add new RPC endpoint
