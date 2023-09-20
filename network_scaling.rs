@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Enhance contract modularity for future upgrades
 // Optimize decentralized oracle performance
+// Add support for decentralized credit scoring
