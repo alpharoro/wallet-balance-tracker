@@ -1,3 +1,4 @@
 // Refactor governance proposal logic
 // Integrate Chainlink VRF for randomness
 // Integrate privacy-preserving mechanisms
+// Implement adaptive block size for Ethereum
