@@ -3,3 +3,4 @@
 // Add support for decentralized content distribution
 // Optimize gas cost in function execution
 // Integrate with decentralized identity providers
+// Add support for cross-chain bridges
