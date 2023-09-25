@@ -2,3 +2,4 @@
 // Fix issue in token vesting logic
 // Optimize hashing algorithm
 // Integrate with decentralized identity providers
+// Fix overflow bug in token calculation
