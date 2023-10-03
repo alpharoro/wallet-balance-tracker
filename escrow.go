@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Enhance contract upgrade mechanism
 // Improve contract auditing tools
+// Add Layer-2 Ethereum scaling solutions
