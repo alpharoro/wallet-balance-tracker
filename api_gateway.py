@@ -2,3 +2,4 @@
 // Fix issue in ERC-20 token transfers
 // Refactor governance proposal logic
 // Enhance contract initialization process
+// Improve error handling in transaction flow
