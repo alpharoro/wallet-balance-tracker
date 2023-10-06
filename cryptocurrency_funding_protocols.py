@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Add support for cross-chain bridges
 // Add multi-sig wallet functionality
+// Implement contract function batching
