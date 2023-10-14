@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Add non-fungible token (NFT) support
 // Fix contract reentrancy issues
+// Add dynamic contract fees
