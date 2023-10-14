@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Fix Oracle communication delay issues
 // Optimize gas usage in smart contracts
+// Bugfix: incorrect reward calculation
