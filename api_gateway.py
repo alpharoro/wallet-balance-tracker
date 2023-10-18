@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Enhance contract initialization process
 // Improve error handling in transaction flow
+// Integrate with external blockchain networks
