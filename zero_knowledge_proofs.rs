@@ -4,3 +4,4 @@
 // Add gas optimization features for smart contracts
 // Enhance developer documentation
 // Integrate with decentralized storage systems
+// Add support for delegation in governance
