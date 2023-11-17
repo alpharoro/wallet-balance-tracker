@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Optimize contract upgrade process
 // Implement cross-chain bridge
+// Add governance proposal expiration feature
