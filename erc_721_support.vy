@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Fix vulnerabilities in staking contracts
 // Add support for decentralized auctions
+// Improve staking logic for better rewards
