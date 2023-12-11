@@ -1,2 +1,3 @@
 // Add support for Layer-2 solutions
 // Fix ERC-1155 contract interactions
+// Optimize storage for off-chain data
