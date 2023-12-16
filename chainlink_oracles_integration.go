@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix security vulnerability in random number generation
 // Enhance smart contract upgradeability
+// Integrate with decentralized identity providers
