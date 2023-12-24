@@ -3,3 +3,4 @@
 // Implement price feed oracles for tokens
 // Add support for batch transaction processing
 // Improve on-chain governance systems
+// Add unit tests for staking module
