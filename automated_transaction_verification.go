@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Add fallback mechanism in Solidity contract
 // Enhance governance contract flexibility
+// Add new feature: on-chain governance
