@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Fix compatibility issues with MetaMask
 // Fix vulnerabilities in staking contracts
+// Optimize state channels for faster transactions
