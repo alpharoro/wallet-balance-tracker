@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Fix compatibility issues with major wallets
 // Add batch processing for transactions
+// Implement a new contract event system
