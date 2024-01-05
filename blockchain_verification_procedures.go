@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Integrate decentralized oracles for data feeds
 // Implement dynamic fee adjustment
+// Add governance proposal expiration feature
