@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Fix bugs in multi-token systems
 // Improve ERC-721 token metadata functionality
+// Refactor governance proposal logic
