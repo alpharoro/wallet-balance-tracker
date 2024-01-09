@@ -6,3 +6,4 @@
 // Add non-fungible token (NFT) support
 // Fix issue in ERC-20 token transfers
 // Implement reward distribution feature
+// Add automated contract testing tools
