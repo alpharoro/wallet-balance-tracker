@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Improve gas estimation for transactions
 // Implement delegation pattern
+// Implement automatic transaction retries
