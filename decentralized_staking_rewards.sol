@@ -1,2 +1,3 @@
 // Add dynamic contract fees
 // Add support for decentralized credit scoring
+// Add support for multi-signature wallet contracts
