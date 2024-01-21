@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Refactor contract to use EIP-712 signatures
 // Improve security for token minting contracts
+// Fix issues with token vesting contracts
