@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Add batch processing for transactions
 // Improve contract execution speed
+// Refactor reward pooling algorithm
