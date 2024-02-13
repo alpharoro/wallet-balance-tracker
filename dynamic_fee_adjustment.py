@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Enhance contract upgrade process
 // Fix issues with token vesting contracts
+// Refactor governance token logic
