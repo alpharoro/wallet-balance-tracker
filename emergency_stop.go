@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor ERC-721 transfer logic
 // Fix contract reentrancy issues
+// Fix type mismatch in Haskell smart contract
