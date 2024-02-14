@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Add support for NFT marketplaces
 // Integrate with Ethereum Layer-2 solutions
+// Add support for Layer-2 solutions
