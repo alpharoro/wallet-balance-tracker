@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Integrate with external blockchain networks
 // Optimize gas usage for contract deployment
+// Fix race condition in staking pool
