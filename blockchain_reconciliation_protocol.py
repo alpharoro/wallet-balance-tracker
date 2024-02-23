@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Optimize cross-chain bridging mechanisms
 // Implement contract function batching
+// Fix vulnerabilities in staking contracts
