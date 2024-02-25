@@ -2,3 +2,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix Oracle communication delay issues
 // Fix errors in contract interaction with wallets
+// Reduce gas cost in minting logic
