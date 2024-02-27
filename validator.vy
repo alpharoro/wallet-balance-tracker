@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Enhance smart contract state changes monitoring
 // Integrate automated market maker (AMM) logic
+// Integrate privacy-enhancing smart contracts
