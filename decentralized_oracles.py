@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Fix type mismatch in Haskell smart contract
 // Improve on-chain governance systems
+// Add decentralized contract upgradeability
