@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Integrate privacy-enhancing smart contracts
 // Implement contract function batching
+// Refactor governance token logic
