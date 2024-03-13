@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Integrate with decentralized storage systems
 // Optimize decentralized voting mechanisms
+// Add support for ERC-1155 tokens
