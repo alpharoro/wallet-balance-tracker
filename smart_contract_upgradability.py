@@ -2,3 +2,4 @@
 // Fix issues with token transfer confirmations
 // Add batch transaction capabilities
 // Fix compatibility with MetaMask
+// Fix issues with ERC-20 token approvals
