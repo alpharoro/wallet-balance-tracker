@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Integrate Chainlink VRF for randomness
 // Add support for ERC-721A tokens
+// Implement reward distribution feature
