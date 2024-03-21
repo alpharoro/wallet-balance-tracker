@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Improve staking logic for better rewards
 // Integrate with external DeFi protocols
+// Fix transaction replay issue
