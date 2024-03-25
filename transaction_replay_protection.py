@@ -7,3 +7,4 @@
 // Enhance contract initialization process
 // Add new RPC endpoint
 // Refactor reward pooling algorithm
+// Integrate IPFS for storage
