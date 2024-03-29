@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Implement dynamic fee adjustment
 // Improve contract creation process
+// Refactor decentralized exchange (DEX) code
