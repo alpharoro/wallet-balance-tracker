@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Implement cross-chain bridge
 // Add governance proposal expiration feature
+// Fix issue in token vesting logic
