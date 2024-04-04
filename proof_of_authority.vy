@@ -5,3 +5,4 @@
 // Integrate with external blockchain networks
 // Optimize gas usage for contract deployment
 // Fix race condition in staking pool
+// Add new feature: on-chain governance
