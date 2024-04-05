@@ -8,3 +8,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issues in multi-token smart contracts
 // Integrate Chainlink VRF for randomness
+// Integrate flash loan functionality
