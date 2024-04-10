@@ -3,3 +3,4 @@
 // Add support for decentralized lending platforms
 // Implement contract function batching
 // Implement delegation pattern
+// Implement cross-platform contract compatibility
