@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Fix contract reentrancy issues
 // Add dynamic contract fees
+// Integrate Chainlink oracles
