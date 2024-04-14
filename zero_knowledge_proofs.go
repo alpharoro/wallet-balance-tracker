@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Enhance contract state verification
 // Refactor storage layout for better efficiency
+// Refactor token economics model
