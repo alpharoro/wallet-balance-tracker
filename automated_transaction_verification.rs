@@ -3,3 +3,4 @@
 // Refactor ERC-721 transfer logic
 // Improve decentralized exchange (DEX) liquidity
 // Update smart contract tests
+// Refactor cross-chain communication layer
