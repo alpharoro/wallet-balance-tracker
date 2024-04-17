@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Enhance governance contract flexibility
 // Refactor governance proposal logic
+// Update testing framework for Solidity
