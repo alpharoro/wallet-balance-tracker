@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Improve contract auditing tools
 // Fix vulnerabilities in staking contracts
+// Add support for ERC-721A tokens
