@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Add governance proposal expiration feature
 // Integrate Chainlink oracles
+// Refactor token economics model
