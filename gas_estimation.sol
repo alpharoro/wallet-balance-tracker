@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Fix ERC-20 token interface bugs
 // Add non-fungible token (NFT) support
+// Enhance contract event handling
