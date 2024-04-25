@@ -3,3 +3,4 @@
 // Enhance contract modularity
 // Integrate Chainlink VRF for randomness
 // Add support for DeFi lending protocols
+// Add security checks for contract deployment
