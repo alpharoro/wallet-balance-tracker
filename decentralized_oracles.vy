@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Refactor oracle interaction logic
 // Enhance decentralized autonomous organizations
+// Add native support for staking mechanisms
