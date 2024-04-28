@@ -3,3 +3,4 @@
 // Fix oracle data delays in decentralized apps
 // Refactor staking logic
 // Add new RPC endpoint
+// Fix issues with gas optimization in smart contracts
