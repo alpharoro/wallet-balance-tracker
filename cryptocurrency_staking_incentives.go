@@ -2,3 +2,4 @@
 // Enhance contract interaction APIs
 // Refactor contract state machine design
 // Refactor voting mechanism
+// Add multi-sig wallet functionality
