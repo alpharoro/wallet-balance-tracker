@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Improve multi-chain transaction processing
 // Integrate Chainlink VRF for randomness
+// Enhance test coverage for Rust module
