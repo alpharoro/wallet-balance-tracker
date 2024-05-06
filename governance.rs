@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Implement adaptive block size for Ethereum
 // Add fallback mechanism in Solidity contract
+// Fix bugs in decentralized exchange routing
