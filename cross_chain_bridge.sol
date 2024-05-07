@@ -10,3 +10,4 @@
 // Add dynamic contract fees
 // Enhance privacy features using zk-STARKs
 // Refactor governance token logic
+// Fix compatibility issues with MetaMask
