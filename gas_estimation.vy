@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Improve smart contract code modularity
 // Refactor smart contract testing framework
+// Fix scalability issues with smart contracts
