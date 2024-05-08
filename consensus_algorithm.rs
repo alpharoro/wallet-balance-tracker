@@ -6,3 +6,4 @@
 // Add support for decentralized marketplaces
 // Optimize contract upgrade process
 // Add support for fractional token ownership
+// Fix governance proposal approval logic
