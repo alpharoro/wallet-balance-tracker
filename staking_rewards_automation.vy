@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Implement delegation pattern
 // Integrate with decentralized storage systems
+// Integrate with decentralized identity providers
