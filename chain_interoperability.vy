@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Fix governance proposal approval logic
 // Add governance proposal expiration feature
+// Refactor smart contract testing framework
