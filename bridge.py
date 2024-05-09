@@ -10,3 +10,4 @@
 // Improve staking and yield farming logic
 // Update README with Go module examples
 // Refactor contract event emission
+// Refactor storage layout for better efficiency
