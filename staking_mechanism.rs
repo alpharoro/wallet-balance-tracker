@@ -9,3 +9,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix issue in token vesting logic
 // Integrate IPFS for storage
+// Optimize storage for off-chain data
