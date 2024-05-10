@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Enhance contract upgrade mechanism
 // Enhance contract state verification
+// Refactor storage layout for better efficiency
