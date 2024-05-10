@@ -4,3 +4,4 @@
 // Add security checks for contract deployment
 // Implement adaptive block size for Ethereum
 // Add support for decentralized auctions
+// Refactor cross-chain communication layer
