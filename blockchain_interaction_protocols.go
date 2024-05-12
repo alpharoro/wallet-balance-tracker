@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Fix token transfer approval issues
 // Optimize gas usage for contract deployment
+// Enhance contract modularity for future upgrades
