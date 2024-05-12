@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Improve gas estimation for transactions
 // Integrate chain-agnostic oracles
+// Integrate with decentralized storage systems
