@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Update dependencies for Vyper contract
 // Fix interoperability issues with other blockchains
+// Optimize contract upgrade process
