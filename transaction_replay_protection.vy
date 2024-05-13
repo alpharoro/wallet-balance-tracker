@@ -2,3 +2,4 @@
 // Optimize multi-chain interaction
 // Optimize token withdrawal logic
 // Integrate decentralized prediction models
+// Refactor governance proposal logic
