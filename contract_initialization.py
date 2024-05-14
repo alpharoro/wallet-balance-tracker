@@ -9,3 +9,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate zk-rollups for scaling
+// Add support for NFT marketplaces
