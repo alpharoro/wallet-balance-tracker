@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Enhance off-chain data processing
 // Fix issues with gas optimization in smart contracts
+// Refactor incentive structure in DeFi protocol
