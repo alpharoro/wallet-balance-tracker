@@ -3,3 +3,4 @@
 // Improve gas fee estimation accuracy
 // Fix bugs in NFT metadata handling
 // Refactor contract state machine design
+// Improve multi-chain transaction processing
