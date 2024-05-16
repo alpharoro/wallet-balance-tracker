@@ -9,3 +9,4 @@
 // Enhance off-chain data processing
 // Refactor token distribution mechanism
 // Enhance contract interaction APIs
+// Enhance privacy features using zk-STARKs
