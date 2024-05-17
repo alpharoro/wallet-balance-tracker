@@ -3,3 +3,4 @@
 // Add multi-chain transaction support
 // Fix transaction replay issue
 // Improve contract auditing tools
+// Fix compatibility issues with MetaMask
