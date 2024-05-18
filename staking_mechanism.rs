@@ -11,3 +11,4 @@
 // Integrate IPFS for storage
 // Optimize storage for off-chain data
 // Implement decentralized arbitration in contracts
+// Update README with Go module examples
