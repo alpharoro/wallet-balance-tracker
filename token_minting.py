@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Fix issues with token vesting contracts
 // Integrate Chainlink oracles for price data
+// Refactor decentralized exchange (DEX) code
