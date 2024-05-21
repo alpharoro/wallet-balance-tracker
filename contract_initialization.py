@@ -10,3 +10,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate zk-rollups for scaling
 // Add support for NFT marketplaces
+// Improve error handling in transaction flow
