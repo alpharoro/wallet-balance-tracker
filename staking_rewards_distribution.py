@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Refactor reward pooling algorithm
 // Enhance contract modularity
+// Fix issues with cross-chain transaction finality
