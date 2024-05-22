@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Add new RPC endpoint
 // Refactor incentive structure in DeFi protocol
+// Optimize gas cost in function execution
