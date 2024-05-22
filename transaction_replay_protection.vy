@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Refactor governance proposal logic
 // Fix issue in token vesting logic
+// Add support for DeFi lending protocols
