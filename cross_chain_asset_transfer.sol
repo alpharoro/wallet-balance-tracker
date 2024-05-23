@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Fix errors in contract interaction with wallets
 // Optimize gas usage in contract execution
+// Add support for decentralized file storage
