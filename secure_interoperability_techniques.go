@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Enhance privacy features using zk-STARKs
 // Add support for multiple consensus mechanisms
+// Optimize storage for off-chain data
