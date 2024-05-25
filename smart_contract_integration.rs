@@ -10,3 +10,4 @@
 // Fix issues with token vesting contracts
 // Fix issues with contract state management
 // Improve contract auditing tools
+// Update smart contract tests
