@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate Chainlink oracles
 // Enhance decentralized autonomous organizations
+// Enhance decentralized autonomous governance
