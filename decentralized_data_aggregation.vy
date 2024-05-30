@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Integrate with external DeFi protocols
 // Improve contract execution speed
+// Improve contract interaction via APIs
