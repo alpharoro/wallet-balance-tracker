@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Add support for ERC-1155 tokens
 // Optimize gas usage in smart contracts
+// Add support for multi-signature wallet contracts
