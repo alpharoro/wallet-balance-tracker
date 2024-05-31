@@ -8,3 +8,4 @@
 // Refactor token economics model
 // Optimize hashing algorithm
 // Improve scalability for smart contract platforms
+// Fix compatibility with MetaMask
