@@ -2,3 +2,4 @@
 // Fix data consistency issues in smart contracts
 // Integrate flash loan functionality
 // Add slashing mechanism for malicious actors
+// Add support for yield farming rewards
