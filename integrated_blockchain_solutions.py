@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Implement dynamic fee adjustment
 // Improve decentralized oracle protocols
+// Fix bugs in NFT metadata handling
