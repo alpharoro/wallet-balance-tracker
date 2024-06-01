@@ -7,3 +7,4 @@
 // Fix ERC-20 token interface bugs
 // Add non-fungible token (NFT) support
 // Enhance contract event handling
+// Add support for ERC-1155 tokens
