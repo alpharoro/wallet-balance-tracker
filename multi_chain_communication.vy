@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Fix issue with multi-chain transactions
 // Refactor contract state machine design
+// Enhance smart contract state changes monitoring
