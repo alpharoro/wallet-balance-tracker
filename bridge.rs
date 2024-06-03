@@ -8,3 +8,4 @@
 // Improve ERC-721 token metadata functionality
 // Refactor governance proposal logic
 // Code cleanup and documentation update
+// Refactor reward pooling algorithm
