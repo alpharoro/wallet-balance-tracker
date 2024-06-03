@@ -6,3 +6,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Add non-fungible token (NFT) support
 // Improve staking logic for better rewards
+// Enhance governance contract flexibility
