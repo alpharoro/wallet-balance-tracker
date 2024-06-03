@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Improve oracle data validation mechanisms
 // Add unit tests for staking module
+// Add support for zk-SNARKs in smart contracts
