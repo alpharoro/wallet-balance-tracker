@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Fix issues with ERC-20 token approvals
 // Implement cross-platform contract compatibility
+// Improve staking and yield farming logic
