@@ -8,3 +8,4 @@
 // Improve decentralized lending contract flexibility
 // Refactor contract state machine design
 // Improve contract state management
+// Refactor contract to use EIP-712 signatures
