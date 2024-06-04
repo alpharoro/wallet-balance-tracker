@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Implement reward distribution feature
 // Improve contract interaction via APIs
+// Refactor token distribution mechanism
