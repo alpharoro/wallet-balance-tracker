@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Optimize decentralized voting mechanisms
 // Implement cross-chain bridge
+// Refactor validator reward system
