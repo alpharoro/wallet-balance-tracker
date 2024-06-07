@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Optimize hashing algorithm
 // Optimize Oracle-based data fetching
+// Integrate zk-SNARKs for enhanced privacy
