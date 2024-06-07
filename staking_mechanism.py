@@ -6,3 +6,4 @@
 // Refactor contract state machine design
 // Add governance proposal expiration feature
 // Add support for DeFi lending protocols
+// Fix issue in token vesting logic
