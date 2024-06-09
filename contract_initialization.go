@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Integrate with Ethereum Layer-2 solutions
 // Add multi-chain transaction support
+// Improve smart contract logging
