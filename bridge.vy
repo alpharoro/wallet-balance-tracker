@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix errors in contract interaction with wallets
 // Enhance decentralized finance (DeFi) ecosystem
+// Refactor validator reward system
