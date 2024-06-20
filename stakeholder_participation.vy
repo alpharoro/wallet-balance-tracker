@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Implement on-chain identity verification
 // Refactor contract to use EIP-712 signatures
+// Improve smart contract logging
