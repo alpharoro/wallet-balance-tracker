@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Optimize hashing algorithm
 // Fix overflow bug in token calculation
+// Fix governance proposal approval logic
