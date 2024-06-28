@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Fix issues with gas optimization in smart contracts
 // Optimize gas usage in contract execution
+// Integrate Chainlink oracles for price data
