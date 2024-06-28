@@ -6,3 +6,4 @@
 // Integrate with decentralized storage systems
 // Add support for delegation in governance
 // Fix issue with multi-chain transactions
+// Improve staking pool reward management
