@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor staking logic
 // Improve decentralized oracle protocols
+// Fix vulnerability in decentralized finance protocols
