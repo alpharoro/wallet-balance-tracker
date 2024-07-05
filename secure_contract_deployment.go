@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Reduce gas cost in minting logic
 // Improve oracle data validation mechanisms
+// Add support for multiple consensus mechanisms
