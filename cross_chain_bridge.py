@@ -5,3 +5,4 @@
 // Fix issues with contract state management
 // Integrate Chainlink oracles
 // Add support for cross-chain bridges
+// Add native support for staking mechanisms
