@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Enhance logging for better debugging
 // Optimize proof-of-stake validation
+// Add multi-chain transaction support
