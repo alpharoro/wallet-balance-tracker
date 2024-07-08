@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Add support for decentralized lending platforms
 // Implement time-locked contract execution
+// Add governance proposal expiration feature
