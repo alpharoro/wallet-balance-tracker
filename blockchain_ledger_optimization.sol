@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Implement reward distribution feature
 // Improve contract execution speed
+// Fix compatibility with MetaMask
