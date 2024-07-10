@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Improve DApp transaction flow
 // Integrate IPFS for storage
+// Integrate Chainlink oracles
