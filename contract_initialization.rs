@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Improve contract state management
 // Implement delegation pattern
+// Add batch processing for transactions
