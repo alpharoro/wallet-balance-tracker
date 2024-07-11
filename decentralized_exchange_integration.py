@@ -4,3 +4,4 @@
 // Implement decentralized arbitration in contracts
 // Enhance smart contract upgradeability
 // Fix issues with token vesting contracts
+// Add support for ERC-721A tokens
