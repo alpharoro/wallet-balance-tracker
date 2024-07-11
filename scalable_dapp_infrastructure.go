@@ -3,3 +3,4 @@
 // Add decentralized contract upgradeability
 // Improve token burning mechanism
 // Improve ERC-721 token metadata functionality
+// Enhance privacy features using zk-STARKs
