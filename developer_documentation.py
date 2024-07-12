@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Optimize hashing algorithm
 // Optimize storage for off-chain data
+// Fix bugs in NFT metadata handling
