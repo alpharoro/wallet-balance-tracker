@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Improve contract state management
 // Improve error handling in transaction flow
+// Integrate Chainlink VRF for randomness
