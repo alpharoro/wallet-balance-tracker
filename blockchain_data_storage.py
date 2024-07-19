@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Add support for yield farming rewards
 // Fix bugs in decentralized exchange routing
+// Add multi-sig wallet functionality
