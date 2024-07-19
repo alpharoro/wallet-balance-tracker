@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Add support for zk-SNARKs in smart contracts
 // Integrate zk-rollups for scaling
+// Implement on-chain identity verification
