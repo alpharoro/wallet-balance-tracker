@@ -8,3 +8,4 @@
 // Add support for fractional token ownership
 // Fix governance proposal approval logic
 // Refactor cross-chain communication layer
+// Add support for decentralized auctions
