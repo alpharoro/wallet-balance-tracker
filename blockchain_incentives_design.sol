@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Optimize gas usage in smart contracts
 // Refactor reward pooling algorithm
+// Code cleanup and documentation update
