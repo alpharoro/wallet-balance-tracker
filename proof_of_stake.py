@@ -7,3 +7,4 @@
 // Add unit tests for staking module
 // Add support for zk-SNARKs in smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Refactor wallet interaction logic
