@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Refactor voting mechanism
 // Enhance gas fee management
+// Improve decentralized identity (DID) systems
