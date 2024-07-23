@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate IPFS for storage
 // Enhance contract initialization process
+// Fix issues with token vesting contracts
