@@ -6,3 +6,4 @@
 // Improve staking logic for better rewards
 // Integrate multi-chain liquidity pools
 // Add support for zk-SNARKs in smart contracts
+// Integrate IPFS for storage
