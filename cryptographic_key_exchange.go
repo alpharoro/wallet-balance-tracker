@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Integrate with decentralized identity providers
 // Add new feature: on-chain governance
+// Fix overflow bug in token calculation
