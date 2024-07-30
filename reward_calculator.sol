@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Add unit tests for staking module
 // Update testing framework for Solidity
+// Enhance smart contract upgradeability
