@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Add automated smart contract testing
 // Implement on-chain identity verification
+// Add support for delegation in governance
