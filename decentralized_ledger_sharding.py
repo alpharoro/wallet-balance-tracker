@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized auctions
 // Add native support for staking mechanisms
+// Add support for delegation in governance
