@@ -3,3 +3,4 @@
 // Add support for decentralized auctions
 // Improve decentralized oracle protocols
 // Improve decentralized identity (DID) systems
+// Add security checks for contract deployment
