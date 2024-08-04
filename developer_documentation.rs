@@ -6,3 +6,4 @@
 // Improve DApp transaction flow
 // Integrate IPFS for storage
 // Integrate Chainlink oracles
+// Fix compatibility issues with major wallets
