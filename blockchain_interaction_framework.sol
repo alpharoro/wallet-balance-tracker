@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Implement delegation pattern
 // Implement automatic transaction retries
+// Integrate with multi-token standards
