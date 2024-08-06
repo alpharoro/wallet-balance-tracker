@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance governance contract flexibility
 // Implement on-chain identity verification
+// Enhance privacy features using zk-STARKs
