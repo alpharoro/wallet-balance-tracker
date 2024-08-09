@@ -7,3 +7,4 @@
 // Improve contract auditing tools
 // Add governance proposal expiration feature
 // Implement cross-platform contract compatibility
+// Improve error handling in transaction flow
