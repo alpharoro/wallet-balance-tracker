@@ -8,3 +8,4 @@
 // Fix issue with multi-chain transactions
 // Add dynamic contract upgrade mechanisms
 // Integrate chain-agnostic oracles
+// Integrate with decentralized identity providers
