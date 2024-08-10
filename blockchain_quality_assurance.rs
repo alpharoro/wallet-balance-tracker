@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Enhance decentralized autonomous organizations
 // Enhance decentralized autonomous governance
+// Fix compatibility issues with MetaMask
