@@ -4,3 +4,4 @@
 // Add security checks for contract deployment
 // Implement price feed oracles for tokens
 // Integrate Chainlink oracles for price data
+// Implement adaptive block size for Ethereum
