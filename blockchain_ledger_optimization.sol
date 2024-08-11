@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Improve contract execution speed
 // Fix compatibility with MetaMask
+// Enhance smart contract state changes monitoring
