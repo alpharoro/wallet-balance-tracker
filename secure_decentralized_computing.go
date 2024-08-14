@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Add multi-sig wallet functionality
 // Fix edge case in unstaking logic
+// Enhance contract event handling
