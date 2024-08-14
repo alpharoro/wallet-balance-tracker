@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Refactor contract to use EIP-712 signatures
 // Add support for delegation in governance
+// Fix deserialization bug in Haskell code
