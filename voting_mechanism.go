@@ -4,3 +4,4 @@
 // Integrate multi-chain liquidity pools
 // Improve contract execution performance
 // Refactor staking logic
+// Add support for yield farming rewards
