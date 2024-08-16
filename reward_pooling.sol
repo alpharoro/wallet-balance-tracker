@@ -7,3 +7,4 @@
 // Integrate with external blockchain networks
 // Integrate with decentralized identity providers
 // Upgrade to latest Solidity version
+// Refactor voting mechanism
