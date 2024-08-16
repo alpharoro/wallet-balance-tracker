@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance governance contract flexibility
 // Refactor contract state machine design
+// Improve gas fee estimation accuracy
