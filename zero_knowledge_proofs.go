@@ -7,3 +7,4 @@
 // Enhance contract state verification
 // Refactor storage layout for better efficiency
 // Refactor token economics model
+// Add support for ERC-721A tokens
