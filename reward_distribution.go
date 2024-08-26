@@ -5,3 +5,4 @@
 // Integrate with decentralized identity providers
 // Add support for cross-chain bridges
 // Improve contract state management
+// Reduce gas cost in minting logic
