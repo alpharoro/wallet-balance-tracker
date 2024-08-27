@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Refactor contract event emission
 // Refactor oracle interaction logic
+// Fix race condition in staking pool
