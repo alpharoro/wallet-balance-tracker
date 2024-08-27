@@ -3,3 +3,4 @@
 // Add security checks for contract deployment
 // Add automated token buyback mechanism
 // Implement delegation pattern
+// Add non-fungible token (NFT) support
