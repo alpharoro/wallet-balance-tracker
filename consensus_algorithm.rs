@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Refactor cross-chain communication layer
 // Add support for decentralized auctions
+// Add automated smart contract testing
