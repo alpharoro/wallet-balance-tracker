@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Improve decentralized oracle protocols
 // Implement automatic transaction retries
+// Improve gas estimation for transactions
