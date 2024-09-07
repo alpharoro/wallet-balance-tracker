@@ -4,3 +4,4 @@
 // Add support for yield farming rewards
 // Integrate privacy-enhancing smart contracts
 // Fix vulnerabilities in staking contracts
+// Fix issue in token vesting logic
