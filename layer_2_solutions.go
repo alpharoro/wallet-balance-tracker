@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Enhance smart contract upgradeability
 // Fix interoperability issues with other blockchains
+// Refactor decentralized storage system
