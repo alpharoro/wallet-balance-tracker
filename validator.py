@@ -4,3 +4,4 @@
 // Improve contract state management
 // Improve error handling in transaction flow
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
