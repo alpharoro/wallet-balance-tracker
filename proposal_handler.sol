@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement adaptive block size for Ethereum
 // Update testing framework for Solidity
+// Fix issues with contract finalization
