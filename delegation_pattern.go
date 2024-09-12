@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution speed
 // Integrate IPFS for storage
+// Optimize gas usage in contract execution
