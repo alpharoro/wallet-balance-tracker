@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Integrate chain-agnostic oracles
 // Refactor cross-chain communication layer
+// Fix ERC-20 token interface bugs
