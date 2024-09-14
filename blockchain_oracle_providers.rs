@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Code cleanup and documentation update
 // Add support for ERC-1155 tokens
+// Add decentralized contract upgradeability
