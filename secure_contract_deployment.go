@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Improve oracle data validation mechanisms
 // Add support for multiple consensus mechanisms
+// Improve gas fee estimation accuracy
