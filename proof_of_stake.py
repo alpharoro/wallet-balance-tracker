@@ -9,3 +9,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor wallet interaction logic
 // Optimize decentralized voting mechanisms
+// Refactor storage layout for better efficiency
