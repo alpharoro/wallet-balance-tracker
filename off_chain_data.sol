@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Implement liquidity pool staking mechanism
 // Update dependencies for Vyper contract
+// Refactor decentralized exchange (DEX) code
