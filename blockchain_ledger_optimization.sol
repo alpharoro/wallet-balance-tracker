@@ -5,3 +5,4 @@
 // Improve contract execution speed
 // Fix compatibility with MetaMask
 // Enhance smart contract state changes monitoring
+// Fix issue in ERC-20 token transfers
