@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Implement zero-knowledge proof (ZKP) support
 // Update smart contract tests
+// Add support for fractional token ownership
