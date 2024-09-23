@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Optimize contract upgrade process
 // Implement on-chain fee adjustment mechanisms
+// Add support for NFT marketplaces
