@@ -7,3 +7,4 @@
 // Improve contract execution speed
 // Integrate IPFS for storage
 // Optimize gas usage in contract execution
+// Refactor staking logic
