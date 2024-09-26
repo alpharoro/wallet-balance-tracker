@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Add new feature: on-chain governance
 // Fix compatibility with MetaMask
+// Enhance off-chain data processing
