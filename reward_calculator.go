@@ -5,3 +5,4 @@
 // Integrate decentralized prediction models
 // Enhance decentralized autonomous governance
 // Fix errors in NFT minting logic
+// Fix overflow bug in token calculation
