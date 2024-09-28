@@ -9,3 +9,4 @@
 // Add dynamic contract upgrade mechanisms
 // Integrate chain-agnostic oracles
 // Integrate with decentralized identity providers
+// Fix issue in token vesting logic
