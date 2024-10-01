@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Improve decentralized lending contract flexibility
 // Enhance off-chain data processing
+// Fix bugs in NFT metadata handling
