@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Add batch processing for transactions
 // Fix compatibility issues with MetaMask
+// Fix interoperability issues with other blockchains
