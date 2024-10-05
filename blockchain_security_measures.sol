@@ -2,3 +2,4 @@
 // Refactor decentralized storage system
 // Enhance smart contract state changes monitoring
 // Enhance governance contract flexibility
+// Refactor contract to use EIP-712 signatures
