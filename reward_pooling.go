@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Enhance gas fee management
 // Improve decentralized identity (DID) systems
+// Improve error handling in transaction flow
