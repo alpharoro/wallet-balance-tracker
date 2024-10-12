@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Integrate zk-rollups for scaling
 // Refactor contract state machine design
+// Refactor decentralized storage system
