@@ -10,3 +10,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate flash loan functionality
 // Enhance developer documentation
+// Add support for decentralized insurance protocols
