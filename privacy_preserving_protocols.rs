@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement decentralized arbitration in contracts
 // Enhance privacy features using zk-STARKs
+// Fix memory leak in Rust smart contract
