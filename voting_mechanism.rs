@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Update smart contract tests
 // Add support for fractional token ownership
+// Fix scalability issues with smart contracts
