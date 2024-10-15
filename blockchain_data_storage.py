@@ -6,3 +6,4 @@
 // Fix bugs in decentralized exchange routing
 // Add multi-sig wallet functionality
 // Improve contract modularity
+// Implement liquidity pool staking mechanism
