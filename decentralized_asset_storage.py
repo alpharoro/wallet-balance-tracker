@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Improve gas fee estimation accuracy
 // Integrate with external DeFi protocols
+// Add support for ERC-721A tokens
