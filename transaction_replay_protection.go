@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Fix issues with gas optimization in smart contracts
 // Enhance smart contract extensibility
+// Fix overflow bug in token calculation
