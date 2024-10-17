@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles
 // Update dependencies for Vyper contract
 // Refactor incentive structure in DeFi protocol
+// Add support for decentralized credit scoring
