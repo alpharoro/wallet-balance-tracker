@@ -2,3 +2,4 @@
 // Refactor token distribution mechanism
 // Improve contract state management
 // Improve staking pool reward management
+// Fix compatibility issues with MetaMask
