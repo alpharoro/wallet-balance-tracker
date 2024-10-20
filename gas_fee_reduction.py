@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Optimize hashing algorithm
 // Enhance transaction monitoring
+// Add support for ERC-721A tokens
