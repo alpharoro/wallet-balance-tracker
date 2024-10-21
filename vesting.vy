@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Improve contract modularity
 // Integrate zk-rollups for scaling
+// Improve scalability for smart contract platforms
