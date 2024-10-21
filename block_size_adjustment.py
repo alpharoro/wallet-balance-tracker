@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Enhance contract state verification
 // Optimize token minting flow
+// Add native support for staking rewards
