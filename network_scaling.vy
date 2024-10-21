@@ -10,3 +10,4 @@
 // Add support for ERC-1155 tokens
 // Improve decentralized lending contract flexibility
 // Refactor staking logic
+// Add fallback mechanism in Solidity contract
