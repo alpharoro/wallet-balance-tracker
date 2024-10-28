@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Optimize decentralized application performance
 // Implement on-chain identity verification
+// Integrate IPFS for storage
