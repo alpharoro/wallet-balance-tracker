@@ -5,3 +5,4 @@
 // Implement price feed oracles for tokens
 // Integrate Chainlink oracles for price data
 // Implement adaptive block size for Ethereum
+// Improve gas estimation for transactions
