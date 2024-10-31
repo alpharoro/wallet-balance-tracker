@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Add new feature: on-chain governance
 // Improve security for token minting contracts
+// Fix ERC-1155 contract interactions
