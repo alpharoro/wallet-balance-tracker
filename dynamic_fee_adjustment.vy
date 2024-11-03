@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Add support for Layer-2 solutions
 // Upgrade to latest Solidity version
+// Fix vulnerability in decentralized finance protocols
