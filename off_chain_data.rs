@@ -9,3 +9,4 @@
 // Improve contract execution performance
 // Implement on-chain fee adjustment mechanisms
 // Fix ERC-1155 contract interactions
+// Implement zero-knowledge proof (ZKP) support
