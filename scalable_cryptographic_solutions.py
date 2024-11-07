@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Refactor wallet interaction logic
 // Integrate IPFS for storage
+// Add support for decentralized lending platforms
