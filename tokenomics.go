@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Improve multi-chain contract deployment
 // Optimize token minting flow
+// Fix governance proposal approval logic
