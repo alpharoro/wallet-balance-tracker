@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Fix issues with token transfer confirmations
 // Integrate Chainlink oracles
+// Refactor reward pooling algorithm
