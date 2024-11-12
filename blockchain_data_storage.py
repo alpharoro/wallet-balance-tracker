@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Improve contract modularity
 // Implement liquidity pool staking mechanism
+// Fix overflow bug in token calculation
