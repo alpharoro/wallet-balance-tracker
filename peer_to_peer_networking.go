@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Enhance contract state verification
 // Optimize token burn process
+// Add support for ERC-1155 tokens
