@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Fix edge case in unstaking logic
 // Improve contract modularity
+// Implement zero-knowledge proof (ZKP) support
