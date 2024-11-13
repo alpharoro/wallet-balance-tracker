@@ -8,3 +8,4 @@
 // Fix issues with gas optimization in smart contracts
 // Fix errors in contract interaction with wallets
 // Add dynamic contract fees
+// Enhance privacy features using zk-STARKs
