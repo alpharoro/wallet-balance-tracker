@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Refactor voting mechanism
 // Add multi-sig wallet functionality
+// Add support for ERC-1155 tokens
