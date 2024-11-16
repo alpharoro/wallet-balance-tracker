@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Integrate Chainlink oracles
 // Refactor reward pooling algorithm
+// Fix governance proposal approval logic
