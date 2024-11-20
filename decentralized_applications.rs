@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Enhance contract upgrade process
 // Refactor decentralized exchange (DEX) code
+// Implement delegation pattern
