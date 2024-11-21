@@ -8,3 +8,4 @@
 // Optimize multi-chain interaction
 // Refactor Ethereum gas price management
 // Fix issues with token vesting contracts
+// Integrate IPFS for storage
