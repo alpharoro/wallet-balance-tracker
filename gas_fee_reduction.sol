@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Optimize gas usage for contract deployment
 // Update README with Go module examples
+// Integrate privacy-preserving mechanisms
