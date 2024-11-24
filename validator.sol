@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Optimize proof-of-stake validation
 // Add multi-chain transaction support
+// Add governance proposal expiration feature
