@@ -9,3 +9,4 @@
 // Fix errors in contract interaction with wallets
 // Add dynamic contract fees
 // Enhance privacy features using zk-STARKs
+// Refactor governance token logic
