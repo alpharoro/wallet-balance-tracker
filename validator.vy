@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Add gas optimization features for smart contracts
 // Update smart contract tests
+// Add support for decentralized marketplaces
