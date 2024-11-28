@@ -6,3 +6,4 @@
 // Implement dynamic fee adjustment
 // Improve contract creation process
 // Refactor decentralized exchange (DEX) code
+// Add support for decentralized insurance protocols
