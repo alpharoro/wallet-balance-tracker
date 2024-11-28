@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Implement delegation pattern
 // Implement price feed oracles for tokens
+// Add automated contract testing tools
