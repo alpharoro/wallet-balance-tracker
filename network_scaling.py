@@ -6,3 +6,4 @@
 // Integrate multi-chain liquidity pools
 // Fix issues with contract finalization
 // Add new RPC endpoint
+// Add support for decentralized insurance protocols
