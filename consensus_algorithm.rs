@@ -11,3 +11,4 @@
 // Add support for decentralized auctions
 // Add automated smart contract testing
 // Add governance proposal expiration feature
+// Add support for yield farming rewards
