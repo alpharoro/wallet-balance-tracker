@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Integrate zk-rollups for scaling
 // Integrate zk-SNARKs for enhanced privacy
+// Add non-fungible token (NFT) support
