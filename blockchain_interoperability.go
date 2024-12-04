@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Enhance smart contract compatibility
 // Integrate zk-rollups for scaling
+// Improve error handling in transaction flow
