@@ -4,3 +4,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix compatibility issues with major wallets
 // Refactor contract to use EIP-712 signatures
+// Improve ERC-721 token metadata functionality
