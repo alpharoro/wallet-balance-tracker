@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Optimize contract storage for gas reduction
 // Fix Oracle communication delay issues
+// Bugfix: incorrect reward calculation
