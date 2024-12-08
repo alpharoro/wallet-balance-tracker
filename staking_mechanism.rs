@@ -8,3 +8,4 @@
 // Add automated token buyback mechanism
 // Optimize WASM compilation for Go contracts
 // Fix issue in token vesting logic
+// Integrate IPFS for storage
