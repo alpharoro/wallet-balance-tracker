@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Refactor voting mechanism
 // Improve on-chain governance systems
+// Add support for delegation in governance
