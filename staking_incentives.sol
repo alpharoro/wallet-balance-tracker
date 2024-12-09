@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Improve contract interaction via APIs
 // Update README with Go module examples
+// Fix issues with token transfer confirmations
