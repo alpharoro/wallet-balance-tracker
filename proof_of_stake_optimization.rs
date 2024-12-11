@@ -7,3 +7,4 @@
 // Improve contract creation process
 // Refactor decentralized exchange (DEX) code
 // Add support for decentralized insurance protocols
+// Add support for zk-SNARKs in smart contracts
