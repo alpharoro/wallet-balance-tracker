@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Reduce gas cost in minting logic
 // Implement on-chain identity verification
+// Integrate decentralized prediction models
