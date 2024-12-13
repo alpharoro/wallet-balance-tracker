@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add fallback mechanism in Solidity contract
 // Improve contract auditing tools
+// Refactor multi-signature wallet code
