@@ -5,3 +5,4 @@
 // Improve contract execution performance
 // Refactor staking logic
 // Add support for yield farming rewards
+// Reduce gas cost in minting logic
