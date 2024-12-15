@@ -7,3 +7,4 @@
 // Add support for cross-chain bridges
 // Add native support for staking mechanisms
 // Bugfix: incorrect reward calculation
+// Add support for fractional token ownership
