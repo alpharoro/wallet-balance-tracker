@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Improve gas estimation for transactions
 // Add new feature: on-chain governance
+// Integrate flash loan functionality
