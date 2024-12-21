@@ -6,3 +6,4 @@
 // Improve security for token minting contracts
 // Fix issues with token vesting contracts
 // Add support for fractional token ownership
+// Enhance logging for better debugging
