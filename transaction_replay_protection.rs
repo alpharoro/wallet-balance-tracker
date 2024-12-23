@@ -8,3 +8,4 @@
 // Add gas optimization features for smart contracts
 // Update dependencies for Vyper contract
 // Implement adaptive block size for Ethereum
+// Add new feature: on-chain governance
