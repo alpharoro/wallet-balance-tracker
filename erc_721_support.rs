@@ -11,3 +11,4 @@
 // Add native support for staking rewards
 // Enhance decentralized autonomous organizations
 // Enhance test coverage for Rust module
+// Fix errors in contract interaction with wallets
