@@ -6,3 +6,4 @@
 // Implement cross-platform contract compatibility
 // Fix bugs in multi-token systems
 // Integrate staking rewards automation
+// Refactor staking logic
