@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Refactor decentralized exchange (DEX) code
 // Improve DApp transaction flow
+// Fix bugs in NFT metadata handling
