@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Improve smart contract code modularity
 // Integrate with decentralized prediction markets
+// Refactor smart contract testing framework
