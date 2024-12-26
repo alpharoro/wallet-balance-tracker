@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Fix security vulnerability in random number generation
 // Update README with Go module examples
+// Optimize gas usage in smart contracts
