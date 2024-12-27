@@ -12,3 +12,4 @@
 // Refactor staking logic
 // Add fallback mechanism in Solidity contract
 // Add gas optimization features for smart contracts
+// Implement a new contract event system
