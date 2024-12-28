@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Add slashing mechanism for malicious actors
 // Add automated contract testing tools
+// Integrate Chainlink VRF for randomness
