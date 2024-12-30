@@ -4,3 +4,4 @@
 // Integrate flash loan functionality
 // Update smart contract tests
 // Fix bugs in NFT metadata handling
+// Integrate IPFS for storage
