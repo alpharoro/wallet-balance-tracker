@@ -6,3 +6,4 @@
 // Integrate with decentralized storage systems
 // Fix compatibility issues with major wallets
 // Improve ERC-721 token metadata functionality
+// Fix issue in ERC-20 token transfers
