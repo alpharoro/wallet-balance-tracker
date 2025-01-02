@@ -8,3 +8,4 @@
 // Improve decentralized oracle protocols
 // Update smart contract tests
 // Improve scalability for smart contract platforms
+// Improve decentralized identity (DID) systems
