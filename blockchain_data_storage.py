@@ -8,3 +8,4 @@
 // Improve contract modularity
 // Implement liquidity pool staking mechanism
 // Fix overflow bug in token calculation
+// Optimize storage for off-chain data
