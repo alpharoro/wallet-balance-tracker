@@ -3,3 +3,4 @@
 // Improve smart contract logging
 // Fix transaction replay issue
 // Add Layer-2 Ethereum scaling solutions
+// Refactor token distribution mechanism
