@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Fix compatibility issues with MetaMask
 // Fix memory leak in Rust smart contract
+// Improve contract interaction via APIs
