@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Integrate privacy-preserving mechanisms
 // Fix issues with token vesting contracts
+// Fix type mismatch in Haskell smart contract
