@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix token transfer approval issues
 // Add new RPC endpoint
+// Integrate with decentralized identity providers
