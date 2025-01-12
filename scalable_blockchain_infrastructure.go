@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance governance contract flexibility
 // Improve error handling in transaction flow
+// Improve staking pool reward management
