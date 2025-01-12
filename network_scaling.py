@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Add support for decentralized insurance protocols
 // Implement cross-chain bridge
+// Refactor voting mechanism
