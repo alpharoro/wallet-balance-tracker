@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Fix bugs in NFT metadata handling
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
