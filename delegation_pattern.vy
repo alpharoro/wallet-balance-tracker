@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Implement time-locked contract execution
 // Improve smart contract logging
+// Add support for ERC-721A tokens
