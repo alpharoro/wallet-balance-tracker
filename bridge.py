@@ -9,3 +9,4 @@
 // Integrate privacy-enhancing smart contracts
 // Improve staking and yield farming logic
 // Update README with Go module examples
+// Refactor contract event emission
