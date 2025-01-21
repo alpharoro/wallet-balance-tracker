@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve cross-chain asset management
 // Enhance logging for better debugging
+// Refactor decentralized governance structure
