@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Add multi-chain transaction support
 // Add governance proposal expiration feature
+// Refactor contract to use EIP-712 signatures
