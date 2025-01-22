@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Update README with Go module examples
 // Refactor storage layout for better efficiency
+// Fix deserialization bug in Haskell code
