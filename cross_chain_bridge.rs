@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Add support for decentralized file storage
 // Enhance contract event handling
+// Add automated contract testing tools
