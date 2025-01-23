@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate with decentralized prediction markets
 // Add non-fungible token (NFT) support
+// Fix compatibility with MetaMask
