@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Fix issues with cross-chain transaction finality
 // Optimize token burn process
+// Refactor decentralized exchange (DEX) code
