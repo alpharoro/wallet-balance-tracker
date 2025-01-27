@@ -6,3 +6,4 @@
 // Fix issues with cross-chain transaction finality
 // Optimize token burn process
 // Refactor decentralized exchange (DEX) code
+// Refactor token distribution mechanism
