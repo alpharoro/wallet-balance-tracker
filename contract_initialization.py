@@ -8,3 +8,4 @@
 // Add dynamic contract upgrade mechanisms
 // Implement on-chain fee adjustment mechanisms
 // Integrate zk-SNARKs for enhanced privacy
+// Integrate zk-rollups for scaling
