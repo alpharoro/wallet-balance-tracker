@@ -2,3 +2,4 @@
 // Integrate decentralized oracles for data feeds
 // Add support for zk-SNARKs in smart contracts
 // Fix token transfer approval issues
+// Refactor storage layout for better efficiency
