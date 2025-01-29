@@ -8,3 +8,4 @@
 // Add native support for staking mechanisms
 // Bugfix: incorrect reward calculation
 // Add support for fractional token ownership
+// Enhance decentralized finance (DeFi) ecosystem
