@@ -7,3 +7,4 @@
 // Update smart contract tests
 // Add support for fractional token ownership
 // Fix scalability issues with smart contracts
+// Fix overflow bug in token calculation
